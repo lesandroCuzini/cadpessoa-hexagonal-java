@@ -16,3 +16,6 @@ Este projete possui um débito técnico: a entidade de domínio Pessoa tem depê
 
 ### Documentação da API - Swagger
 http://localhost:8080/swagger-ui.html
+
+### Para acessar o Banco de dados
+http://localhost:8080/h2-console/
